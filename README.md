@@ -1,4 +1,4 @@
-# FootballAppSPA
+# Warehouse
 
 ## Project setup
 ```
